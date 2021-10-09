@@ -1,4 +1,5 @@
 # time_series_basics
+
 -https://www.kaggle.com/rdizzl3/time-series-transformations  //transformations and inverse functions
 -https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts  // ach and pacf with arima order table
 -https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/  // all time series mettics code
