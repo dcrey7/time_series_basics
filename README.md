@@ -8,3 +8,4 @@ https://github.com/pik1989/TimeSeriesAnalysis/blob/main/ARIMA%20-%20Model%20Buil
 https://github.com/krishnaik06/ARIMA-And-Seasonal-ARIMA/blob/master/Untitled.ipynb // new school time_series
 https://github.com/krishnaik06/FbProphet/blob/master/Untitled.ipynb // fb prophet
 https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/ // cheat sheet
+http://people.missouristate.edu/songfengzheng/Teaching/MTH548/Time%20Series-ch08.pdf  // model diagnostics
